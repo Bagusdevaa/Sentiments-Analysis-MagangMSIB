@@ -1,9 +1,11 @@
+pyvenv.cfg
 etc/
 Include/
 Lib/
 Library/
 Scripts/
 share/
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
